@@ -1,3 +1,7 @@
+---
+type: Checklist
+---
+
 ## OTA Upgrade Guides
 Magisk does not modify most read-only partitions, which means applying official OTAs is much simpler. Here are the tutorials for several different kind of devices to apply OTAs and preserve Magisk after the installation (if possible). This is just a general guide as procedures for each device may vary.
 
